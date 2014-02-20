@@ -1,22 +1,15 @@
 {
-  "name": "diacritics",
-  "version": "1.1.0",
-  "description": "remove diacritics from strings",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test/test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/andrewrk/diacritics.git"
-  },
+  "name": "andrewrk-diacritics",
+  "description": "remove diacritics from strings ('ascii folding')",
+  "version": "1.0.0",
   "keywords": [
     "diacritics",
     "remove",
     "removal",
     "search",
-    "string"
+    "string",
+    "ascii",
+    "folding"
   ],
-  "author": "Andrew Kelley",
-  "license": "MIT"
+  "dependencies": {}
 }
